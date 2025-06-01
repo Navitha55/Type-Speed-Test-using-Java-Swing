@@ -1,5 +1,7 @@
 # Type-Speed-Test-using-Java-Swing
-A Java Swing-based Typing Speed Test project that helps users practice typing while measuring speed (WPM), accuracy, and completion time for each paragraph. Ideal for improving typing skills and real-time performance evaluation.
+Java Swing-based typing test tool that lets users practice typing paragraph by paragraph with real-time feedback. It highlights correct and incorrect characters instantly, calculates WPM, accuracy, and time taken for each line. Users can pause/resume, restart, and navigate through paragraphs using the Next button. After each line, a summary popup shows performance stats, and a final report is displayed at the end. Perfect for improving typing speed with precision!
+
+
 
 # Features
 ### ✅ Paragraph-by-Paragraph Typing
