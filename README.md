@@ -50,3 +50,12 @@ A Java Swing-based Typing Speed Test project that helps users practice typing wh
   - ⌨️ Average WPM
 
   - 🎯 Average Accuracy
+  - 
+## Contributing
+  - Feel free to fork, improve the UI, add features like scoreboards or difficulty levels, and submit pull requests!
+## License
+- This project is open source and available under the MIT License.
+---
+- Enjoy playing and learning Java! 🎉
+- If you find this project helpful, please ⭐ star the repository.
+- If you want, I can help customize it further with your actual file/class names or add screenshots/instructions!
